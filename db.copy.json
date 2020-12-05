@@ -1,0 +1,34 @@
+{
+  "books": [
+    {
+      "id": "ds9fsdfdsf-dfs8fd8f-238f8sadc",
+      "title": "HTML book",
+      "author": "Unknown",
+      "year": 2005
+    },
+    {
+      "id": "fds094nj34k-fda84j4jk43-dfs0fds9dfnk4",
+      "title": "JavaScript",
+      "author": "PPiotr Nowak",
+      "year": 2018
+    },
+    {
+      "id": "jk5439f94nff-adffd8sf6adf-ee9r84hb42bhj4",
+      "title": "Angular",
+      "author": "Aleksandra Michalska",
+      "year": 2020
+    },
+    {
+      "id": "gknj4569fd9g-afd8df89f-j3n55jn453",
+      "title": "React",
+      "author": "Milena Witkowska",
+      "year": 2013
+    },
+    {
+      "id": "fdj5tu8f8g9-dfd8g9fgfd8-fd9df9f9f9d",
+      "title": "TypeScript",
+      "author": "Jan Kowalski",
+      "year": 2009
+    }
+  ]
+}

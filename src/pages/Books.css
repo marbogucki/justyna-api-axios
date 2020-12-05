@@ -1,0 +1,15 @@
+.link-button {
+  display: inline-block;
+  padding: 5px;
+  text-decoration: none;
+  background-color: #0099cc;
+  color: #fff;
+  margin: 0 10px;
+  border: 0;
+  cursor: pointer;
+}
+
+.link-button--remove {
+  background-color: #cc0066;
+  padding: 8px;
+}
